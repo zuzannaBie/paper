@@ -1,8 +1,9 @@
 # Title
-Some Title
+Simulations of cats
 
-#Author
+##Authors
 Zazu Bie
+Flaczek Musiewicz
 
 #Introduction
 We present the cats.
